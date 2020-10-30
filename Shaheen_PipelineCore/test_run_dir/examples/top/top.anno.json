@@ -1,0 +1,10 @@
+[
+  {
+    "class":"firrtl.annotations.LoadMemoryAnnotation",
+    "target":"top.instruction_memory.memory",
+    "fileName":"/home/ubabnadeem/Desktop/abc.txt",
+    "hexOrBinary":{
+      "name":"h"
+    }
+  }
+]

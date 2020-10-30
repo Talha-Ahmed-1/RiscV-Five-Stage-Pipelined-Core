@@ -1,0 +1,28 @@
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher StallingUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher StallingUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher StallingUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher StallingUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher StallingUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher BranchUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher top --backend-name verilator
+test:runMain riscv.Launcher1 top --backend-name verilator
+test:runMain riscv.Launcher top --backend-name verilator
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher BranchForwardUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher BranchUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+test:runMain riscv.Launcher BranchUnit
+test:runMain riscv.Launcher TopPipeline --backend-name verilator
+cd
+test:runMain riscv.Launcher TopPipeline --backend-name verilator

@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/talha/riscv/pipeline/src/test/scala/riscv/BranchUnitTests.scala:6:21: value U is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.func3, 0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m	                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/talha/riscv/pipeline/src/test/scala/riscv/BranchUnitTests.scala:7:19: value S is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.rs1, 2.S)[0m
+[0m[[0m[31merror[0m] [0m[0m	                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/talha/riscv/pipeline/src/test/scala/riscv/BranchUnitTests.scala:8:19: value S is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.rs2, 0.S)[0m
+[0m[[0m[31merror[0m] [0m[0m	                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/talha/riscv/pipeline/src/test/scala/riscv/BranchUnitTests.scala:10:25: value U is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m	expect (c.io.branch, 0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m	                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
