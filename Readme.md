@@ -1,4 +1,4 @@
-# Shaheen, A Single Cycle Core on RISC-V Implementation
+# 5 Stage Pipeline Implementation of RV32I based Single Cycle Shaheen Core
  
 ## Designed by Talha Ahmed
 
